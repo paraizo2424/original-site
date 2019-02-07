@@ -27,7 +27,7 @@ header img{
 }
 
 span {
-  color: red;
+  color: blue;
 }
 
 .header-logo {
@@ -65,4 +65,9 @@ h2 {
   font-weight: bold;
   font-display;
   text-decoration :underline;
+}
+
+.bigBird {
+    /* font-size: 4500px; */
+    color: red;
 }
