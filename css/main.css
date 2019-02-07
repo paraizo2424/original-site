@@ -1,0 +1,68 @@
+body {
+    font-family: Helvetica, '游ゴシック', 'Yu Gothic', YuGothic, HiraKakuProN-W3, 'メイリオ', Meiryo, sans-serif;
+    font-size: 14px;
+    text-align: center;
+
+    width: 900px;
+    margin: 0 auto;
+}
+
+a {
+  color: gray;
+}
+
+header {
+  height: 150px;
+  margin-bottom: 10px;
+  background-color: #222222;
+  opacity: 0.7;
+  color: white;
+}
+
+header img{
+  padding: 20px;
+  float: left;
+  height: 60px;
+  width: 60px;
+}
+
+span {
+  color: red;
+}
+
+.header-logo {
+  margin: 14px;
+  font-size: 32px;
+  /* float: left; */
+}
+
+nav li{
+  list-style: none;
+  padding-left: 5px;
+  float: left;
+}
+
+footer {
+    height: 50px;
+    background-color: #335533;
+    opacity: 0.7;
+    /* color: white; */
+}
+
+footer li {
+  list-style: none;
+  float: left;
+  padding-right: 5px;
+}
+
+h1 {
+  font-size: 46px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 26px;
+  font-weight: bold;
+  font-display;
+  text-decoration :underline;
+}
